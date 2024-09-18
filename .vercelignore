@@ -1,0 +1,8 @@
+# Ignore ESLint configuration files
+.eslintrc
+.eslintignore
+
+# Ignore other development files
+/node_modules
+/tests
+/docs

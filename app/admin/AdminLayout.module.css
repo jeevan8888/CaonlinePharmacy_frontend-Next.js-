@@ -1,0 +1,17 @@
+.adminLayout {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+  }
+  
+  .adminBody {
+    display: flex;
+    flex: 1;
+  }
+  
+  .adminContent {
+    flex: 1;
+    padding: 20px;
+    /* Adjust padding or other styles as needed */
+  }
+  
